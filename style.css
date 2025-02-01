@@ -155,3 +155,17 @@ input, textarea {
     font-size: 20px;
     padding: 6
 }
+
+/* 
+
+CONTACT
+
+*/
+
+footer {
+    background-color: #aaf5ff;
+}
+
+.footer__logo {
+    max-width: 480px;
+}
