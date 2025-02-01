@@ -65,6 +65,7 @@ li {
 .row {
     width: 100%;
     max-width: 1200px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -172,4 +173,13 @@ footer {
 
 .footer__logo {
     max-width: 480px;
+    margin-bottom: 16px;
+}
+
+.footer__links {
+    margin-bottom: 32px;
+}
+
+.footer__link {
+    padding: 0 16px;
 }
